@@ -1,6 +1,6 @@
 # Live demo here 
 
-Demo: [https://drill-webgi-tutorial-flax.vercel.app](Live Demo)
+Demo: https://drill-webgi-tutorial-flax.vercel.app
 
 ## WebGi starter project
 A template for a vanilla(no ui-framework) project with webgi engine in typescript using parcel bundler.
